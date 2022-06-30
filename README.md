@@ -8,7 +8,7 @@
   
 * Đầu ra:
 
-  *label: Các điểm dữ liệu sau khi được xác định gần ở cluster nào nhất sẽ được gắn nhãn ở cluster đó ( trong giao diện nó sẽ biểu thị màu cùng màu với cluster mà nó xác định )
+  * label: Các điểm dữ liệu sau khi được xác định gần ở cluster nào nhất sẽ được gắn nhãn ở cluster đó ( trong giao diện nó sẽ biểu thị cùng màu với cluster mà nó xác định )
 
 ## Giao diện
 ![image](https://user-images.githubusercontent.com/107552816/176353192-fdf6f7df-819b-479d-85c2-2f14d4668670.png)
